@@ -253,7 +253,7 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="93"/>
         <source>Copy to Clipboard</source>
-        <translation>複製到剪貼簿</translation>
+        <translation>把...複製到剪貼簿</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="101"/>
@@ -618,17 +618,17 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="627"/>
         <source>Copy Full Path to Clipboard</source>
-        <translation>Copier le chemin complet dans le presse papier</translation>
+        <translation>把路徑複製到剪貼簿</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="632"/>
         <source>Copy Filename to Clipboard</source>
-        <translation>Copier le nom du fichier dans le presse papier</translation>
+        <translation>把檔名複製到剪貼簿</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="637"/>
         <source>Copy Directory to Clipboard</source>
-        <translation>Copier le répertoire dans le presse papier</translation>
+        <translation>把目錄複製到剪貼簿</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="642"/>
@@ -673,22 +673,22 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="676"/>
         <source>Move to a New Window</source>
-        <translation>Déplacer dans une nouvelle fenêtre</translation>
+        <translation>搬移到新視窗</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="681"/>
         <source>Open in a New Window</source>
-        <translation>Ouvrir dans une nouvelle fenêtre</translation>
+        <translation>在新視窗開啟</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="686"/>
         <source>&amp;Start Recording</source>
-        <translation>&amp;Commencer l&apos;enregistrement</translation>
+        <translation>&amp;開始錄製</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="697"/>
         <source>&amp;Stop Recording</source>
-        <translation>&amp;Arrêter l&apos;enregistrement</translation>
+        <translation>&amp;停止錄製</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="708"/>
@@ -698,7 +698,7 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="719"/>
         <source>Save Currently Recorded Macro</source>
-        <translation>Sauvegarder la macro actuellement enregistrée</translation>
+        <translation>儲存目前的巨集</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="727"/>
@@ -718,7 +718,7 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="745"/>
         <source>UPPERCASE</source>
-        <translation>MAJUSCULE</translation>
+        <translation>全大寫</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="748"/>
@@ -728,7 +728,7 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="753"/>
         <source>lowercase</source>
-        <translation>minuscule</translation>
+        <translation>全小寫</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="756"/>
@@ -738,77 +738,77 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="761"/>
         <source>Convert to UTF-8</source>
-        <translation>Convertir en UTF-8</translation>
+        <translation>轉換為 UTF-8</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="766"/>
         <source>Convert to UTF-16BE (UCS-2 Big Endian)</source>
-        <translation>Convertir en UTF-16BE (UCS-2 Big Endian)</translation>
+        <translation>轉換為 UTF-16BE (UCS-2 Big Endian)</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="771"/>
         <source>Convert to UTF-16LE (UCS-2 Little Endian)</source>
-        <translation>Convertir en UTF-16LE (UCS-2 Little Endian)</translation>
+        <translation>轉換為 UTF-16LE (UCS-2 Little Endian)</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="776"/>
         <source>Convert to UTF-8 without BOM</source>
-        <translation>Convertir en UTF-8 sans BOM</translation>
+        <translation>轉換為無 BOM 的 UTF-8</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="781"/>
         <source>&amp;Run...</source>
-        <translation>Exécute&amp;r...</translation>
+        <translation>執行...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="786"/>
         <source>Launch in Firefox</source>
-        <translation>Lancer dans Firefox</translation>
+        <translation>在 Firefox 執行</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="791"/>
         <source>Launch in Chromium</source>
-        <translation>Lancer dans Chromium</translation>
+        <translation>在 Chromium 執行</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="796"/>
         <source>Get PHP help</source>
-        <translation>Obtenir l&apos;aide PHP</translation>
+        <translation>取得 PHP 的幫助</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="801"/>
         <source>Google Search</source>
-        <translation>Recherche Google</translation>
+        <translation>Google 搜尋</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="806"/>
         <source>Wikipedia Search</source>
-        <translation>Recherche Wikipédia</translation>
+        <translation>搜尋維基百科</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="811"/>
         <source>Open file(s)</source>
-        <translation>Ouvrir le(s) fichier(s)</translation>
+        <translation>開啟檔案</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="816"/>
         <source>Open file(s) in a new window</source>
-        <translation>Ouvrir le(s) fichier(s) dans une nouvelle fenêtre</translation>
+        <translation>在新視窗開啟檔案</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="821"/>
         <source>Modify Shortcut / Delete Command...</source>
-        <translation>Modifier le raccourci / Supprimer la commande...</translation>
+        <translation>編輯 / 刪除指令</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="826"/>
         <source>Preferences...</source>
-        <translation>Préférences...</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="831"/>
         <source>&amp;Find...</source>
-        <translation>&amp;Rechercher...</translation>
+        <translation>&amp;尋找...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="834"/>
@@ -818,7 +818,7 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="839"/>
         <source>Find &amp;Next</source>
-        <translation>Rechercher le suiva&amp;nt</translation>
+        <translation>找下一個</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="842"/>
@@ -828,7 +828,7 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="847"/>
         <source>Find &amp;Previous</source>
-        <translation>Rechercher le &amp;précédent</translation>
+        <translation>找上一個</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="850"/>
@@ -838,12 +838,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="855"/>
         <source>Plain text</source>
-        <translation>Texte brut</translation>
+        <translation>純文字</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="860"/>
         <source>Replace...</source>
-        <translation>Remplacer...</translation>
+        <translation>取代...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="863"/>
@@ -858,7 +858,7 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="873"/>
         <source>Convert to...</source>
-        <translation>Convertir en...</translation>
+        <translation>轉換為...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="878"/>
@@ -888,7 +888,7 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="912"/>
         <source>Custom...</source>
-        <translation>Personnalisé...</translation>
+        <translation>自訂...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="917"/>
@@ -898,12 +898,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="922"/>
         <source>Launch in Chrome</source>
-        <translation>Lancer dans Chrome</translation>
+        <translation>在 Chrome 執行</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="927"/>
         <source>Open a New Window</source>
-        <translation>Ouvrir une nouvelle fenêtre</translation>
+        <translation>開新視窗</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="932"/>
@@ -918,12 +918,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="940"/>
         <source>Delete Current Line</source>
-        <translation>Supprimer ligne actuelle</translation>
+        <translation>刪除此行</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="943"/>
         <source>Delete the current line</source>
-        <translation>Supprimer la ligne actuelle</translation>
+        <translation>刪除這一行</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="946"/>
@@ -933,12 +933,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="951"/>
         <source>Duplicate Current Line</source>
-        <translation>Dupliquer ligne actuelle</translation>
+        <translation>複製此行</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="954"/>
         <source>Duplicate the current line</source>
-        <translation>Dupliquer la ligne actuelle</translation>
+        <translation>複製這一行</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="957"/>
@@ -948,12 +948,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="962"/>
         <source>Move Line Up</source>
-        <translation>Déplacer la ligne vers le haut</translation>
+        <translation>上移此行</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="965"/>
         <source>Move the current line up</source>
-        <translation>Déplacer la ligne courante vers le haut</translation>
+        <translation>把這一行往上移動</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="968"/>
@@ -963,12 +963,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="973"/>
         <source>Move Line Down</source>
-        <translation>Déplacer la ligne vers le bas</translation>
+        <translation>下移此行</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="976"/>
         <source>Move the current line down</source>
-        <translation>Déplacer la ligne courante vers le bas</translation>
+        <translation>把這一行往下移動</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="979"/>
@@ -995,32 +995,32 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="1005"/>
         <source>EOL to Space</source>
-        <translation>Fin de ligne en espace</translation>
+        <translation>EOL 換成空白</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="1010"/>
         <source>TAB to Space</source>
-        <translation>Tabulation en espaces</translation>
+        <translation>TAB 換成空白</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="1015"/>
         <source>Space to TAB (All)</source>
-        <translation>Espaces en tabulations (toutes)</translation>
+        <translation>（所有）空白換成 TAB</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="1020"/>
         <source>Space to TAB (Leading)</source>
-        <translation>Espaces en tabulations (Début)</translation>
+        <translation>（開頭）空白換成 TAB</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="1025"/>
         <source>Open Folder...</source>
-        <translation>Ouvrir le dossier...</translation>
+        <translation>開啟資料夾...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="1030"/>
         <source>Go to line...</source>
-        <translation>Aller à la ligne...</translation>
+        <translation>到這一行...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="1033"/>
@@ -1030,12 +1030,12 @@
     <message>
         <location filename="../ui/mainwindow.ui" line="1038"/>
         <source>Install Extension...</source>
-        <translation>Installer une extension...</translation>
+        <translation>安裝套件...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="1046"/>
         <source>Full Screen</source>
-        <translation>Plein écran</translation>
+        <translation>全螢幕</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="1049"/>
@@ -1046,12 +1046,12 @@
         <location filename="../ui/mainwindow.ui" line="1057"/>
         <location filename="../ui/mainwindow.ui" line="1060"/>
         <source>Show Spaces</source>
-        <translation>Afficher les espaces</translation>
+        <translation>顯示空白</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.ui" line="1071"/>
         <source>Enable Smart Indent</source>
-        <translation>Activer l&apos;indentation intelligente</translation>
+        <translation>啟動聰明縮進</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="349"/>
@@ -1064,13 +1064,13 @@
         <source>Error while trying to save this session. Please ensure the following directory is accessible:
 
 </source>
-        <translation>Erreur en essayant de sauvegarder la session. Merci de vérifier que le répertoire suivant est accessible :
+        <translation>無法儲存此 session。請確認能訪問以下目錄：
 </translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="631"/>
         <source>OVR</source>
-        <translation>ÉCRASER</translation>
+        <translation>OVR</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="755"/>
@@ -1080,79 +1080,78 @@
     <message>
         <location filename="../ui/mainwindow.cpp" line="756"/>
         <source>Reload</source>
-        <translation>Recharger</translation>
+        <translation>重新整理</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="794"/>
         <source>Open</source>
-        <translation>Ouvrir</translation>
+        <translation>開啟</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="796"/>
         <source>All files (*)</source>
-        <translation>Tous les fichiers (*)</translation>
+        <translation>所有檔案 (*)</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="814"/>
         <source>Open Folder</source>
-        <translation>Ouvrir le dossier</translation>
+        <translation>開啟資料夾</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="854"/>
         <source>Do you want to save changes to «%1»?</source>
-        <translation>Voulez-vous enregistrer les modifications apportées à «%1» ?</translation>
+        <translation>你想要儲存 «%1» 的變更嗎？</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="855"/>
         <source>Don&apos;t Save</source>
-        <translation>Ne pas enregistrer</translation>
+        <translation>不要儲存</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="858"/>
         <source>Do you want to save changes to «%1» before closing?</source>
-        <translation>Voulez-vous enregistrer les modifications apportées à «%1» avant la fermeture ? </translation>
+        <translation>在開始複製以前，你想要儲存 «%1» 的變更嗎？</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="862"/>
         <source>If you don&apos;t save the changes you made, you&apos;ll lose them forever.</source>
-        <translation>Si vous n&apos;enregistrez pas les modifications apportées, vous les perdrez définitivement.</translation>
+        <translation>如果你不儲存的話，你會永遠丟失它們。</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="962"/>
         <source>The file on disk has changed since the last read.
 Do you want to save it anyway?</source>
-        <translation>Le fichier sur le disque a changé depuis la dernière lecture.
-Voulez-vous tout de même l&apos;enregistrer ?</translation>
+        <translation>這個檔案在上次讀取後有所變更了。你還要存檔嗎？</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="965"/>
         <source>Saving the file might cause loss of external data.</source>
-        <translation>L&apos;enregistrement du fichier peut entraîner une perte des données externes.</translation>
+        <translation>存檔的話可能會丟失外面的資料。</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="984"/>
         <source>Save as</source>
-        <translation>Enregistrer sous</translation>
+        <translation>儲存為</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="986"/>
         <source>Any file (*)</source>
-        <translation>N&apos;importe quel fichier (*)</translation>
+        <translation>所有檔案 (*)</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1151"/>
         <source>%1 chars, %2 lines</source>
-        <translation>%1 caractères, %2 lignes</translation>
+        <translation>%1 個字元、%2 行</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1162"/>
         <source>Ln %1, col %2</source>
-        <translation>Ligne %1, colonne %2</translation>
+        <translation>第 %1 行、第 %2 個字</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1166"/>
         <source>Sel %1 (%2)</source>
-        <translation>Sél %1 (%2)</translation>
+        <translation>Sel %1 (%2)</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1230"/>
@@ -1167,27 +1166,27 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1236"/>
         <source>Old Mac</source>
-        <translation>Ancien Mac</translation>
+        <translation>早期的 Mac</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1243"/>
         <source>%1 w/o BOM</source>
-        <translation>%1 sans BOM</translation>
+        <translation>%1 無 BOM</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1719"/>
         <source>No recent files</source>
-        <translation>Aucun fichiers récents</translation>
+        <translation>無最近的檔案</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1883"/>
         <source>Convert to:</source>
-        <translation>Convertir en :</translation>
+        <translation>轉換為：</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1897"/>
         <source>Reload as:</source>
-        <translation>Recharger comme :</translation>
+        <translation>重新載入為：</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1939"/>
@@ -1197,7 +1196,7 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1954"/>
         <source>Run...</source>
-        <translation>Exécuter...</translation>
+        <translation>執行...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="1966"/>
@@ -1207,28 +1206,28 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/mainwindow.cpp" line="2246"/>
         <source>Extension</source>
-        <translation>Extension</translation>
+        <translation>套件</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="2291"/>
         <source>Open Session...</source>
-        <translation>Ouvrir la session...</translation>
+        <translation>開啟 Session...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="2293"/>
         <location filename="../ui/mainwindow.cpp" line="2313"/>
         <source>Session file (*.xml);;Any file (*)</source>
-        <translation>Fichier de session (*.xml);;N&apos;importe quel fichier (*)</translation>
+        <translation>Session 檔 (*.xml);;任何檔 (*)</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="2311"/>
         <source>Save Session as...</source>
-        <translation>Sauvegarder la session sous...</translation>
+        <translation>另存此 Session 為...</translation>
     </message>
     <message>
         <location filename="../ui/mainwindow.cpp" line="2337"/>
         <source>Error while trying to save this session. Please try a different file name.</source>
-        <translation>Erreur en essayant de sauvegarder cette session. Essayez avec un nom différent.</translation>
+        <translation>儲存此 Session 檔失敗。請嘗試不同的檔名。</translation>
     </message>
 </context>
 <context>
@@ -1236,7 +1235,7 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/nqqrun.cpp" line="231"/>
         <source>Open File</source>
-        <translation>Ouvrir un fichier</translation>
+        <translation>開啟檔案</translation>
     </message>
 </context>
 <context>
@@ -1244,17 +1243,17 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/nqqrun.cpp" line="263"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>好</translation>
     </message>
     <message>
         <location filename="../ui/nqqrun.cpp" line="264"/>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../ui/nqqrun.cpp" line="265"/>
         <source>Save...</source>
-        <translation>Enregistrer...</translation>
+        <translation>儲存...</translation>
     </message>
     <message>
         <location filename="../ui/nqqrun.cpp" line="267"/>
@@ -1269,12 +1268,12 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/nqqrun.cpp" line="313"/>
         <source>Command Name:</source>
-        <translation>Nom de la commande :</translation>
+        <translation>指令名：</translation>
     </message>
     <message>
         <location filename="../ui/nqqrun.cpp" line="322"/>
         <source>Command saved...</source>
-        <translation>Commande enregistrée...</translation>
+        <translation>儲存的指令...</translation>
     </message>
 </context>
 <context>
@@ -1282,12 +1281,12 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/nqqrun.cpp" line="26"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>好</translation>
     </message>
     <message>
         <location filename="../ui/nqqrun.cpp" line="27"/>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../ui/nqqrun.cpp" line="31"/>
@@ -1297,12 +1296,12 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/nqqrun.cpp" line="67"/>
         <source>Text</source>
-        <translation>Texte</translation>
+        <translation>文字</translation>
     </message>
     <message>
         <location filename="../ui/nqqrun.cpp" line="67"/>
         <source>Command</source>
-        <translation>Commande</translation>
+        <translation>指令</translation>
     </message>
 </context>
 <context>
@@ -1315,47 +1314,47 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/notepadqq.cpp" line="81"/>
         <source>Open a new window in an existing instance of %1.</source>
-        <translation>Ouvrir une nouvelle fenêtre dans l&apos;instance existante de %1.</translation>
+        <translation>以目前的 %1 instance 開啟新視窗</translation>
     </message>
     <message>
         <location filename="../ui/notepadqq.cpp" line="86"/>
         <source>Files to open.</source>
-        <translation>Fichiers à ouvrir.</translation>
+        <translation>開啟的檔案</translation>
     </message>
     <message>
         <location filename="../ui/notepadqq.cpp" line="113"/>
         <source>You are using an old version of Qt (%1)</source>
-        <translation>Vous utilisez une ancienne version de Qt (%1)</translation>
+        <translation>你在使用舊版 Qt (%1)</translation>
     </message>
     <message>
         <location filename="../ui/notepadqq.cpp" line="115"/>
         <source>Notepadqq will try to do its best, but &lt;b&gt;some things will not work properly&lt;/b&gt;.</source>
-        <translation>Notepadqq va essayer de faire de son mieux, mais &lt;b&gt;certaines choses peuvent dysfonctionner&lt;/b&gt;.</translation>
+        <translation>Notepadqq 會盡力發揮所能，不過 &lt;b&gt; 有些東西不能正常運作 &lt;/b&gt;。</translation>
     </message>
     <message>
         <location filename="../ui/notepadqq.cpp" line="116"/>
         <source>Install a newer Qt version (&amp;ge; %1) from the official repositories of your distribution.&lt;br&gt;&lt;br&gt;If it&apos;s not available, download Qt (&amp;ge; %1) from %2 and install it to &quot;%3&quot; or to &quot;%4&quot;.</source>
-        <translation>Installez une nouvelle version de Qt (&amp;ge; %1) depuis les dépôts officiels de votre distribution.&lt;br&gt;&lt;br&gt;Si ce n&apos;est pas disponible, télécharger Qt (&amp;ge; %1) depuis %2 et installez-le dans &quot;%3&quot; ou dans &quot;%4&quot;.</translation>
+        <translation>從你的發行版本安裝官方的新版 Qt repo（&amp;ge; %1）。&lt;br&gt; &lt;br&gt;如果此 repo 無法使用，請從 %2 下載 Qt（&amp;ge; %1）並安裝到 %3 或 %4。</translation>
     </message>
     <message>
         <location filename="../ui/notepadqq.cpp" line="130"/>
         <source>Don&apos;t show me this warning again</source>
-        <translation>Ne plus m&apos;afficher cet avertissement</translation>
+        <translation>以後不要顯示此警告</translation>
     </message>
     <message>
         <location filename="../ui/Sessions/sessions.cpp" line="126"/>
         <source>Error reading session file</source>
-        <translation>Erreur de lecture du fichier de session</translation>
+        <translation>讀取 session 檔錯誤</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.cpp" line="381"/>
         <source>Restart required</source>
-        <translation>Redémarrage requis</translation>
+        <translation>需要重啟</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.cpp" line="382"/>
         <source>You need to restart Notepadqq for the localization changes to take effect.</source>
-        <translation>Vous devez redémarrer Notepadqq pour que le changement de langue prenne effet.</translation>
+        <translation>你需要重啟 Notepadqq 以套用語言本地化的變更。</translation>
     </message>
 </context>
 <context>
@@ -1363,12 +1362,12 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/Search/replaceinfilesworker.cpp" line="40"/>
         <source>Error reading %1</source>
-        <translation>Erreur de lecture %1</translation>
+        <translation>讀取 %1 錯誤</translation>
     </message>
     <message>
         <location filename="../ui/Search/replaceinfilesworker.cpp" line="84"/>
         <source>Error writing %1</source>
-        <translation>Erreur d&apos;écriture %1</translation>
+        <translation>覆寫 %1 錯誤</translation>
     </message>
 </context>
 <context>
@@ -1376,7 +1375,7 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/Search/searchinfilesworker.cpp" line="66"/>
         <source>Error reading %1</source>
-        <translation>Erreur de lecture %1 </translation>
+        <translation>讀取 %1 錯誤</translation>
     </message>
 </context>
 <context>
@@ -1384,12 +1383,12 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/Search/dlgsearching.ui" line="17"/>
         <source>Dialog</source>
-        <translation>Dialogue</translation>
+        <translation>對話框</translation>
     </message>
     <message>
         <location filename="../ui/Search/dlgsearching.ui" line="77"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Annuler</translation>
+        <translation>&amp;取消</translation>
     </message>
 </context>
 <context>
@@ -1402,22 +1401,22 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/frmabout.ui" line="39"/>
         <source>Close</source>
-        <translation>Fermer</translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <location filename="../ui/frmabout.ui" line="108"/>
         <source>License</source>
-        <translation>Licence</translation>
+        <translation>授權</translation>
     </message>
     <message>
         <location filename="../ui/frmabout.cpp" line="23"/>
         <source>Contributors:</source>
-        <translation>Contributeurs :</translation>
+        <translation>貢獻者：</translation>
     </message>
     <message>
         <location filename="../ui/frmabout.cpp" line="23"/>
         <source>GitHub Contributors</source>
-        <translation>Contributeurs GitHub</translation>
+        <translation>GitHub 貢獻者</translation>
     </message>
 </context>
 <context>
@@ -1425,12 +1424,12 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/frmencodingchooser.ui" line="17"/>
         <source>Encoding</source>
-        <translation>Encodage</translation>
+        <translation>編碼</translation>
     </message>
     <message>
         <location filename="../ui/frmencodingchooser.ui" line="30"/>
         <source>Encoding:</source>
-        <translation>Encodage :</translation>
+        <translation>編碼：</translation>
     </message>
 </context>
 <context>
@@ -1438,22 +1437,22 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/frmindentationmode.ui" line="14"/>
         <source>Indentation</source>
-        <translation>Indentation</translation>
+        <translation>縮進</translation>
     </message>
     <message>
         <location filename="../ui/frmindentationmode.ui" line="26"/>
         <source>Tabs</source>
-        <translation>Tabulations</translation>
+        <translation>Tab</translation>
     </message>
     <message>
         <location filename="../ui/frmindentationmode.ui" line="36"/>
         <source>Spaces</source>
-        <translation>Espaces</translation>
+        <translation>空格</translation>
     </message>
     <message>
         <location filename="../ui/frmindentationmode.ui" line="60"/>
         <source>Indentation width:</source>
-        <translation>Largeur de l&apos;indentation :</translation>
+        <translation>縮進長度：</translation>
     </message>
 </context>
 <context>
@@ -1462,12 +1461,12 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
         <location filename="../ui/frmlinenumberchooser.ui" line="14"/>
         <location filename="../ui/frmlinenumberchooser.ui" line="24"/>
         <source>Go to line</source>
-        <translation>Aller à la ligne</translation>
+        <translation>到這一行</translation>
     </message>
     <message>
         <location filename="../ui/frmlinenumberchooser.ui" line="53"/>
         <source>Line number:</source>
-        <translation>Numéro de ligne :</translation>
+        <translation>到第幾行？</translation>
     </message>
 </context>
 <context>
@@ -1475,7 +1474,7 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/frmpreferences.ui" line="14"/>
         <source>Preferences</source>
-        <translation>Préférences</translation>
+        <translation>設定</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="51"/>
@@ -1485,72 +1484,72 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/frmpreferences.ui" line="56"/>
         <source>General</source>
-        <translation>Général</translation>
+        <translation>一般</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="61"/>
         <source>Appearance</source>
-        <translation>Apparence</translation>
+        <translation>外觀</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="66"/>
         <source>Languages</source>
-        <translation>Langages</translation>
+        <translation>語言</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="71"/>
         <source>Search</source>
-        <translation>Chercher</translation>
+        <translation>搜尋</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="76"/>
         <source>Shortcuts</source>
-        <translation>Raccourcis</translation>
+        <translation>快捷鍵</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="81"/>
         <source>Extensions</source>
-        <translation>Extensions</translation>
+        <translation>套件</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="105"/>
         <source>Check Qt version at startup</source>
-        <translation>Vérifier la version de Qt au démarrage</translation>
+        <translation>啟動時檢查 Qt 版本</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="112"/>
         <source>Warn when the indentation doesn&apos;t match the settings</source>
-        <translation>Avertir quand l&apos;indentation ne correspond pas aux réglages</translation>
+        <translation>在縮進與設定不符時警告我</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="119"/>
         <source>Remember open tabs when closing Notepadqq</source>
-        <translation>Se rappeler des onglets ouverts lors de la fermeture de Notepadqq</translation>
+        <translation>記住 Notepadqq 關閉時的頁籤</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="128"/>
         <source>Localization:</source>
-        <translation>Langue :</translation>
+        <translation>語言：</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="185"/>
         <source>Color scheme:</source>
-        <translation>Jeu de couleurs :</translation>
+        <translation>色彩組合：</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="217"/>
         <source>Override Font Family</source>
-        <translation>Remplacer le type de police</translation>
+        <translation>覆寫字型</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="240"/>
         <source>Override Font Size</source>
-        <translation>Remplacer la taille de la police</translation>
+        <translation>覆寫字體大小</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="269"/>
         <source>Override Line Height</source>
-        <translation>Remplacer le hauteur de ligne</translation>
+        <translation>覆寫行高</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="285"/>
@@ -1560,73 +1559,73 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/frmpreferences.ui" line="306"/>
         <source>Preview</source>
-        <translation>Aperçu</translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="389"/>
         <source>Tab size:</source>
-        <translation>Taille de la tabulation :</translation>
+        <translation>Tab 大小：</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="402"/>
         <source>Use spaces instead of tabs</source>
-        <translation>Utiliser des espaces au lieu des tabulations</translation>
+        <translation>使用空白而不用 Tab</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="426"/>
         <source>Use default settings</source>
-        <translation>Utiliser les réglages par défaut</translation>
+        <translation>使用預設設定</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="462"/>
         <source>Search as I type</source>
-        <translation>Recherche lorsque je saisis</translation>
+        <translation>搜尋我輸入的</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="517"/>
         <source>Node.js runtime</source>
-        <translation>Environnement d&apos;exécution Node.js</translation>
+        <translation>Node.js 運行環境</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="523"/>
         <source>Supported Node versions: 0.10, 0.11, 0.12</source>
-        <translation>Versions de Node prises en charge : 0.10, 0.11, 0.12</translation>
+        <translation>支援的版本：0.10, 0.11, 0.12</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="530"/>
         <source>Node.js path:</source>
-        <translation>Chemin Node.js :</translation>
+        <translation>Node.js 路徑：</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="542"/>
         <location filename="../ui/frmpreferences.ui" line="563"/>
         <source>Browse...</source>
-        <translation>Parcourir...</translation>
+        <translation>瀏覽...</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="551"/>
         <source>NPM path:</source>
-        <translation>Chemin NPM :</translation>
+        <translation>NPM 路徑：</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.ui" line="572"/>
         <source>WARNING: support for extensions is EXPERIMENTAL.</source>
-        <translation>AVERTISSEMENT : le support des extensions est EXPERIMENTAL.</translation>
+        <translation>注意：此套件的支援是實驗性的。</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.cpp" line="109"/>
         <source>Keyboard shortcut conflict</source>
-        <translation>Conflit de raccourci clavier</translation>
+        <translation>快捷鍵有衝突</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.cpp" line="110"/>
         <source>Two or more actions share the same shortcut. These conflicts must be resolved before your changes can be saved.</source>
-        <translation>Deux ou plusieurs actions utilisent le même raccourci. Ces conflits doivent être résolus avant que vos modifications puissent être enregistrées.</translation>
+        <translation>有兩個或以上的動作共用同一個快捷鍵。在儲存設定以前，必須解決這些衝突。</translation>
     </message>
     <message>
         <location filename="../ui/frmpreferences.cpp" line="388"/>
         <source>Browse</source>
-        <translation>Parcourir</translation>
+        <translation>瀏覽</translation>
     </message>
 </context>
 <context>
@@ -1634,28 +1633,28 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="14"/>
         <source>Search</source>
-        <translation>Chercher</translation>
+        <translation>搜尋</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="50"/>
         <source>Find</source>
-        <translation>Rechercher</translation>
+        <translation>尋找</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="63"/>
         <source>Replace with</source>
-        <translation>Remplacer par</translation>
+        <translation>以此取代</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="76"/>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="572"/>
         <source>Look in</source>
-        <translation>Regarder dans</translation>
+        <translation>限於</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="89"/>
         <source>Filter</source>
-        <translation>Filtre</translation>
+        <translation>過濾</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="150"/>
@@ -1665,58 +1664,58 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="195"/>
         <source>Include subdirectories</source>
-        <translation>Inclure les sous dossiers</translation>
+        <translation>包含子目錄</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="202"/>
         <source>Show advanced options</source>
-        <translation>Afficher les options avancées</translation>
+        <translation>顯示進階選項</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="209"/>
         <source>Advanced</source>
-        <translation>Avancé</translation>
+        <translation>進階</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="215"/>
         <source>Search plain text</source>
-        <translation>Rechercher du texte simple</translation>
+        <translation>搜尋於純文字</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="241"/>
         <source>Match whole word only</source>
-        <translation>Mot entier seulement</translation>
+        <translation>只搜尋完全吻合的詞</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="248"/>
         <source>Match case</source>
-        <translation>Respecter la casse</translation>
+        <translation>大小寫吻合</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="255"/>
         <source>Search with special characters (\n, \r, \t, \0, \u..., \x...)</source>
-        <translation>Rechercher avec des caractères spéciaux (\n, \r, \t, \0, \u..., \x...)</translation>
+        <translation>搜尋特殊字符（\n, \r, \t, \0, \u..., \x...）</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="262"/>
         <source>Search with regular expressions</source>
-        <translation>Rechercher avec des expressions régulières</translation>
+        <translation>使用正規表達式搜尋</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="290"/>
         <source>Find ⇩</source>
-        <translation>Rechercher ⇩</translation>
+        <translation>往下尋找 ⇩</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="300"/>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="432"/>
         <source>Select all</source>
-        <translation>Tout sélectionner</translation>
+        <translation>全選</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="310"/>
         <source>Replace ⇧</source>
-        <translation>Remplacer ⇧</translation>
+        <translation>往上尋找 ⇧</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="320"/>
@@ -1728,96 +1727,96 @@ Voulez-vous tout de même l&apos;enregistrer ?</translation>
         <location filename="../ui/Search/frmsearchreplace.ui" line="383"/>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="420"/>
         <source>Replace all</source>
-        <translation>Tout remplacer</translation>
+        <translation>全部取代</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="347"/>
         <source>Find all</source>
-        <translation>Tout rechercher</translation>
+        <translation>全部搜尋</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="357"/>
         <source>Find ⇧</source>
-        <translation>Rechercher ⇧</translation>
+        <translation>往上尋找 ⇧</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="396"/>
         <source>Toolbar</source>
-        <translation>Barre d&apos;outils</translation>
+        <translation>工具列</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="430"/>
         <source>&amp;Replace</source>
-        <translation>&amp;Remplacer</translation>
+        <translation>&amp;取代</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="438"/>
         <source>&amp;Find</source>
-        <translation>Re&amp;chercher</translation>
+        <translation>尋找</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.ui" line="446"/>
         <location filename="../ui/Search/frmsearchreplace.ui" line="449"/>
         <source>Find in files</source>
-        <translation>Rechercher dans les fichiers</translation>
+        <translation>在檔案內尋找</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="306"/>
         <source>Searching...</source>
-        <translation>Recherche...</translation>
+        <translation>搜尋...</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="214"/>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="244"/>
         <source>Error</source>
-        <translation>Erreur</translation>
+        <translation>錯誤</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="232"/>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="236"/>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="285"/>
         <source>Replace in files</source>
-        <translation>Remplacer dans les fichiers</translation>
+        <translation>在檔案內取代</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="286"/>
         <source>Are you sure you want to replace all occurrences in %1 for file types %2?</source>
-        <translation>Êtes-vous sûr de vouloir remplacer toutes les occurrences de %1 pour les types de fichiers %2 ?</translation>
+        <translation>你確定要取代所有在 %1 出現的檔案類型 %2 嗎？</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="266"/>
         <source>Replacing...</source>
-        <translation>Remplace...</translation>
+        <translation>取代...</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="233"/>
         <source>%1 occurrences replaced in %2 files.</source>
-        <translation>%1 occurrences remplacées dans %2 fichiers.</translation>
+        <translation>%2 個檔案的 %1 個吻合結果被取代了。</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="237"/>
         <source>%1 occurrences replaced in %2 files, but the replacement has been canceled before it could finish.</source>
-        <translation>%1 occurrences remplacées dans %2 fichiers, mais le remplacement a été annulé avant la fin.</translation>
+        <translation>%2 個檔案的 %1 個吻合結果被取代，但動作在全部完成前被取消了。</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="253"/>
         <source>Replacing in </source>
-        <translation>Remplace dans </translation>
+        <translation>取代於</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="255"/>
         <source>Searching in </source>
-        <translation>Recherche dans </translation>
+        <translation>搜尋於</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="420"/>
         <source>%1 occurrences have been replaced.</source>
-        <translation>%1 occurrences ont été remplacées.</translation>
+        <translation>取代了 %1 個吻合結果。</translation>
     </message>
     <message>
         <location filename="../ui/Search/frmsearchreplace.cpp" line="432"/>
         <source>No results found</source>
-        <translation>Aucun résultat trouvé</translation>
+        <translation>沒有找到任何結果</translation>
     </message>
 </context>
 </TS>
